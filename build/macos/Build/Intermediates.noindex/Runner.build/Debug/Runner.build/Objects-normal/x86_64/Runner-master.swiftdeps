@@ -1,8 +1,8 @@
 version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
-options: "9a1a92567da5ba281853eeb8aa848932366c22d4c906cd6a3183548b7eafb970"
-build_start_time: [1658972253, 970186948]
-build_end_time: [1658972255, 119560003]
+options: "79aef02e90101e4374d32f07dca42413333317180c201b33b648567cfb3a4aac"
+build_start_time: [1659541972, 599488973]
+build_end_time: [1659542004, 49177169]
 inputs:
-  "/Users/apple/Downloads/flutter_practice/macos/Flutter/GeneratedPluginRegistrant.swift": [1658972233, 256437778]
-  "/Users/apple/Downloads/flutter_practice/macos/Runner/AppDelegate.swift": [1644454869, 0]
-  "/Users/apple/Downloads/flutter_practice/macos/Runner/MainFlutterWindow.swift": [1644454869, 0]
+  "/Users/apple/Downloads/flutter_practice/macos/Flutter/GeneratedPluginRegistrant.swift": [1659541867, 155163764]
+  "/Users/apple/Downloads/flutter_practice/macos/Runner/AppDelegate.swift": [1659254018, 804849863]
+  "/Users/apple/Downloads/flutter_practice/macos/Runner/MainFlutterWindow.swift": [1659254018, 811725378]

@@ -11,8 +11,9 @@ class ImagePickerScreen extends StatefulWidget {
 }
 
 class _ImagePickerScreenState extends State<ImagePickerScreen> {
-  final ImagePicker _picker = ImagePicker();
   File? file;
+
+  final ImagePicker _picker = ImagePicker();
 
   @override
   Widget build(BuildContext context) {
@@ -23,14 +24,16 @@ class _ImagePickerScreenState extends State<ImagePickerScreen> {
       ),
       body: Column(
         children: [
-          TextButton(onPressed: () async {
-            final XFile? image = await _picker.pickImage(source: ImageSource.gallery);
-            if (image == null) return;
-            file = File(image.path);
-            setState((){});
-          }, child: const Text('Pick Image')),
-          file != null?
-              Image.file(file!) : Container()
+          TextButton(
+              onPressed: () async {
+                final XFile? image =
+                    await _picker.pickImage(source: ImageSource.gallery);
+                if (image == null) return;
+                file = File(image.path);
+                setState(() {});
+              },
+              child: const Text('Pick Image')),
+          file != null ? Image.file(file!) : Container()
         ],
       ),
     );

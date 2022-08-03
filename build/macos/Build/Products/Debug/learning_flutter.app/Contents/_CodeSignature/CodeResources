@@ -10,7 +10,7 @@
 		</data>
 		<key>Resources/Assets.car</key>
 		<data>
-		SCbE3uvN/eCtkxV8q/gswzDVerE=
+		PYXmjF2LOhs27b0XgdncwN+Gt50=
 		</data>
 		<key>Resources/Base.lproj/MainMenu.nib/keyedobjects-101300.nib</key>
 		<data>
@@ -27,10 +27,10 @@
 		<dict>
 			<key>cdhash</key>
 			<data>
-			dHuAZzMRIRf/BEMnbUBDn/N30bU=
+			4Y84FzgOkg+XonS6j5Vip6LIWyc=
 			</data>
 			<key>requirement</key>
-			<string>cdhash H"8c134b8dab98c433154e8c241f078a762417d74f" or cdhash H"747b806733112117ff0443276d40439ff377d1b5"</string>
+			<string>cdhash H"0ec2e707b45abfc27e0b687239d08effaa55ec74" or cdhash H"e18f3817380e920f97a274ba8f9562a7a2c85b27"</string>
 		</dict>
 		<key>Frameworks/FlutterMacOS.framework</key>
 		<dict>
@@ -209,11 +209,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SCbE3uvN/eCtkxV8q/gswzDVerE=
+			PYXmjF2LOhs27b0XgdncwN+Gt50=
 			</data>
 			<key>hash2</key>
 			<data>
-			0x8cEXd8jg+e1630UOXLX76YjQmBlZaoQyTZwQAj8a8=
+			PPOOFrONSsvUVempDiQWyw3z2nI15i/1x/QsOdB7mBY=
 			</data>
 		</dict>
 		<key>Resources/Base.lproj/MainMenu.nib/keyedobjects-101300.nib</key>

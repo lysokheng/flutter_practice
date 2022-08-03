@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:learning_flutter/api.dart';
 import 'package:learning_flutter/ecommerce_screen/get_start_screen.dart';
 import 'package:learning_flutter/other/image_picker_screen.dart';
 
@@ -18,7 +19,7 @@ class Home extends StatelessWidget {
         canvasColor: Colors.transparent,
       ),
       debugShowCheckedModeBanner: false,
-      home: const ImagePickerScreen(),
+      home: const API(),
     );
   }
 }
