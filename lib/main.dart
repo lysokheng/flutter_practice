@@ -19,7 +19,7 @@ class Home extends StatelessWidget {
         canvasColor: Colors.transparent,
       ),
       debugShowCheckedModeBanner: false,
-      home: const API(),
+      home: API(),
     );
   }
 }

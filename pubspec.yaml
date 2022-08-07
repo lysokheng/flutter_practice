@@ -37,6 +37,8 @@ dependencies:
   flutter_emoji: ^2.4.0
   image_picker: ^0.8.5+3
   http: ^0.13.4
+  liquid_pull_to_refresh: ^3.0.1
+  flutter_slidable: ^2.0.0
 
 dev_dependencies:
   flutter_test:

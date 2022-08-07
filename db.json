@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "title": "testing",
+      "author": "Mario",
+      "id": 2
+    },
+    {
+      "title": "blue",
+      "author": "smith",
+      "id": 3
+    },
+    {
+      "title": "t",
+      "author": "t",
+      "id": 4
+    },
+    {
+      "title": "new",
+      "author": "new",
+      "id": 5
+    },
+    {
+      "title": "ad",
+      "author": "ds",
+      "id": 6
+    },
+    {
+      "title": "123",
+      "author": "32",
+      "id": 7
+    }
+  ]
+}
